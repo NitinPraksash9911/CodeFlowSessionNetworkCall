@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">CodeFlowSession</string>
+    <string name="weather">Weather</string>
 
 
 </resources>
